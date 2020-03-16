@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\istva\\.nuget\\packages\\": {}
+    "C:\\Users\\Én\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\istva\\source\\repos\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
+      "projectUniqueName": "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
       "projectName": "AskSprint1",
-      "projectPath": "C:\\Users\\istva\\source\\repos\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
-      "packagesPath": "C:\\Users\\istva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\istva\\source\\repos\\AskSprint1\\AskSprint1\\obj\\",
+      "projectPath": "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
+      "packagesPath": "C:\\Users\\Én\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\istva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Én\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
