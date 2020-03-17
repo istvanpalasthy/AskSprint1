@@ -33,3 +33,4 @@ C:\Users\Én\Source\Repos\AskSprint1\AskSprint1\AskSprint1\obj\Debug\netcoreapp3
 C:\Users\Én\Source\Repos\AskSprint1\AskSprint1\AskSprint1\obj\Debug\netcoreapp3.1\AskSprint1.dll
 C:\Users\Én\Source\Repos\AskSprint1\AskSprint1\AskSprint1\obj\Debug\netcoreapp3.1\AskSprint1.pdb
 C:\Users\Én\Source\Repos\AskSprint1\AskSprint1\AskSprint1\obj\Debug\netcoreapp3.1\AskSprint1.csproj.CopyComplete
+C:\Users\Én\source\repos\AskSprint1\AskSprint1\AskSprint1\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs

@@ -9,15 +9,17 @@ namespace AskSprint1
     public class FileHandler
     { 
         public List<Questions> questions;
+        public List<Answers> answers;
         public FileHandler()
         {
             questions = new List<Questions>();
+            answers = new List<Answers>();
         }
         public void ProcessFile(string path = "questions.csv")
         {
             //C:\Users\Public\AllFileNames.txt
             //C:\Users\Én\Desktop\valami
-            TextWriter tw = new StreamWriter("questions.csv", true);
+            TextWriter tw = new StreamWriter("answers.csv", true);
 
             tw.WriteLine(path);
             tw.Close();
@@ -29,9 +31,17 @@ namespace AskSprint1
                 while (!sr.EndOfStream)
                 {
                     var line = sr.ReadLine();
-                    var values = line.Split(',');
-                    var q = new Questions(values[0], values[1]);
+                    var q = new Questions(line);
                     questions.Add(q);
+                }
+            }
+            using (StreamReader sr = new StreamReader("answers.csv"))
+            {
+                while (!sr.EndOfStream)
+                {
+                    var line = sr.ReadLine();
+                    var a = new Answers(line);
+                    answers.Add(a);
                 }
             }
         }

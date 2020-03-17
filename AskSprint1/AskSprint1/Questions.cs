@@ -8,11 +8,11 @@ namespace AskSprint1
     public class Questions
     {
         string question { get; set; }
-        string answer { get; set; }
-        public Questions(string question, string answer)
+        
+        public Questions(string question)
         {
             this.question = question;
-            this.answer = answer;
+            
         }
     }
 }
