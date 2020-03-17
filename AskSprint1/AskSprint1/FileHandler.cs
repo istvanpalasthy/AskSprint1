@@ -33,6 +33,7 @@ namespace AskSprint1
                     var line = sr.ReadLine();
                     var q = new Questions(line);
                     questions.Add(q);
+
                 }
             }
             using (StreamReader sr = new StreamReader("answers.csv"))
