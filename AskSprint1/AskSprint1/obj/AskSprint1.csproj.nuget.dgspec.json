@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj": {}
+    "C:\\Users\\Én\\source\\repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj": {
+    "C:\\Users\\Én\\source\\repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
+        "projectUniqueName": "C:\\Users\\Én\\source\\repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
         "projectName": "AskSprint1",
-        "projectPath": "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
+        "projectPath": "C:\\Users\\Én\\source\\repos\\AskSprint1\\AskSprint1\\AskSprint1\\AskSprint1.csproj",
         "packagesPath": "C:\\Users\\Én\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Én\\Source\\Repos\\AskSprint1\\AskSprint1\\AskSprint1\\obj\\",
+        "outputPath": "C:\\Users\\Én\\source\\repos\\AskSprint1\\AskSprint1\\AskSprint1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
